@@ -1,0 +1,52 @@
+body {
+    font-size: 50px;
+    text-align: center;
+    background-color: #3C0675;
+    margin: 0;
+    }
+    .pergunta{
+      background-color: #9A53E7;
+      margin: 50% auto;
+      width: 600px;
+      height: 520px;
+      border: 5px solid black;
+      border-radius: 50px;
+    }
+    
+    #meuamor{
+      text-align: center;
+      margin: 49% auto;
+      justify-content: center;
+      display: none;
+    }
+    
+    button{
+      padding: 10px 20px;
+      font-size: 60px;
+      margin: 10px;
+      border-radius: 50px;
+      height: 120px;
+      border: 2px solid black;
+      cursor: pointer;
+    }
+    #pergunta2{
+      display: none;
+    }
+    #fazdedoida{
+      display: none;
+      background-color: #FF0000;
+      margin: -400px auto auto;
+      width: 600px;
+      height: 430px;
+      border: 5px solid black;
+      border-radius: 50px;
+    }
+    .sim{
+      background-color: #1AB58E;
+    }
+    .sim:hover{
+      background-color: seagreen;
+    }
+    .nao{
+      background-color: #FF0000;
+    }
